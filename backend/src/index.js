@@ -28,9 +28,14 @@ app.use(express.json());
 
 /**
  * SQL: MySQL, SQLite, PostgreSQL, Oracle, Microsoft SQL Server
- * noSQL: MongoDB, CouchDB, etc
+ * NoSQL: MongoDB, CouchDB, etc
  */
 
 app.use(routes);
 
-app.listen(3333);
+app.listen(3333, (error) => {
+  return console.log(error
+    ? "[ERRO] Servidor não inicializado!"
+    : "Servidor rodando na porta 3333 http://localhost:3333/"
+  );
+});
