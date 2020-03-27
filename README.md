@@ -4,7 +4,6 @@
 </h4>
 
 ### ❤ Tecnologias
-O projeto foi desenvolvido com as seguintes tecnologias:
 - [Node](https://nodejs.org/)
 - [React](https://reactjs.org/)
 - [React Native](https://reactnative.dev/)
