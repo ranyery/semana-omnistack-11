@@ -5,7 +5,7 @@
 
 ### ❤ Tecnologias
 - [Node](https://nodejs.org/)
-- [React](https://reactjs.org/)
+- [ReactJS](https://reactjs.org/)
 - [React Native](https://reactnative.dev/)
 - [Expo](https://expo.io/)
 
