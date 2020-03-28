@@ -11,9 +11,9 @@
 
 ### 💻 Instalação
 - Clone o repositório com o comando `git clone` ou <a href="https://github.com/ranyery/semana-omnistack-11/archive/master.zip">clique aqui</a> para fazer o download.<br>
-- Instale as dependências, individualmente, nos diretórios <b>backend, frontend e mobile</b> com o comando `yarn install`.<br>
+- Instale as dependências, individualmente, nos diretórios <b>backend, frontend e mobile</b> com o comando `npm install`.<br>
 - Execute o comando `npx knex migrate:latest` para criar as tabelas no SQLite.<br>
-- Para rodar a aplicação, execute, individualmente, `yarn start` nos diretórios <b>backend, frontend e mobile</b>.
+- Para rodar a aplicação, execute, individualmente, `npm start` nos diretórios <b>backend, frontend e mobile</b>.
 
 ### ♻ Como contribuir
 - Fork desse repositório;
